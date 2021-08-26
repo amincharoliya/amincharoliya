@@ -1,5 +1,5 @@
 
-### Hi there, I'm Chetan Satasiya 👋 
+### Hi there, I'm Amin charoliya 👋 
 
 - 🔭 I’m currently working as Front End Developer.
 - 🌱 I’m currently learning React and GraphQL.
