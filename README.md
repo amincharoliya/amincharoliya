@@ -11,7 +11,7 @@
 <a href="mailto:ameencharoliya@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/amincahroliya/" target="_blank">
+<a href="https://twitter.com/amincharoliya/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/amin-charoliya-392bab81/" target="_blank">
