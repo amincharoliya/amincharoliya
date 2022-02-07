@@ -2,7 +2,7 @@
 ### Hi there, I'm Amin charoliya 👋 
 
 - 🔭 I’m currently working as Front End Developer.
-- 🌱 I’m currently learning React and GraphQL.
+- 🌱 I’m currently learning Reac.
 - 👯 I’m looking to collaborate on Open source platform like WordPress, React.
 - ⚡ Fun fact: While I'm not working I love to play Video games.
 
