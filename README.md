@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://amincharoliya.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/AminCharoliya.com-FEAA2D?style=for-the-badge&logo=Personal%20Site&logoColor=white" />
+  <img src="https://img.shields.io/badge/AminCharoliya.dev-FEAA2D?style=for-the-badge&logo=Personal%20Site&logoColor=white" />
 </a>
 
 ## Technology 
